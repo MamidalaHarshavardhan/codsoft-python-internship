@@ -1,5 +1,5 @@
 # codsoft-python-internship
-##task1:todo_list
+#task1:todo_list
 Introduction
 A to-do list application is a simple and effective tool for task management. It helps users keep track of tasks, prioritize them, and ensure that important activities are not forgotten. In this document, we will discuss the theoretical aspects of creating a to-do list application using Python and the tkinter library for the graphical user interface (GUI).
 
@@ -47,7 +47,7 @@ The task is removed from the list.
 The updated list of tasks is saved to the JSON file.
 The task list is updated in the listbox.
 
-##task2:calculater
+#task2:calculater
 Introduction
 A calculator application is a fundamental tool for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. Creating a calculator using Python and the tkinter library provides a practical example of GUI programming. This document discusses the theoretical aspects of developing a calculator application.
 
@@ -85,7 +85,7 @@ The equal button triggers evaluation of the current expression using Python's ev
 3. Clearing the Display
 The clear button resets the display to an empty state.
 
-##task3:random_password_generator
+#task3:random_password_generator
 Introduction
 A random password generator is a useful tool for creating strong, secure passwords. This application can generate passwords with a mix of letters, numbers, and special characters, ensuring high security. We will develop a random password generator using Python and the tkinter library for the graphical user interface (GUI).
 
@@ -123,7 +123,7 @@ Shuffling the characters to ensure randomness.
 2. Copying to Clipboard
 The generated password can be copied to the clipboard using the clipboard_clear and clipboard_append methods from tkinter.
 
-##task4:rock_paper_scissors
+#task4:rock_paper_scissors
 Introduction
 Rock-Paper-Scissors is a simple hand game usually played between two people, where each player simultaneously forms one of three shapes with an outstretched hand. The possible outcomes are: rock crushes scissors, scissors cuts paper, and paper covers rock. This game is an excellent example for demonstrating basic game logic and user interface design. We will create a Rock-Paper-Scissors game using Python and the tkinter library for the graphical user interface (GUI).
 
@@ -162,7 +162,7 @@ The winner is determined based on the rules of Rock-Paper-Scissors and the resul
 The player's and computer's scores are updated based on the game results.
 
 
-##task5:contact_management_system
+#task5:contact_management_system
 Design Plan
 1. Contact Information
 Each contact will have the following details:
